@@ -1,0 +1,15 @@
+{
+  "name": "blog-data-modeler",
+  "version": "1.0.0",
+  "description": "This project demonstrates the design of a MongoDB database schema for a blogging platform using Mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^9.4.1"
+  }
+}

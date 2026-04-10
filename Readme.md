@@ -72,6 +72,6 @@ node server.js
 
 ## 👩‍💻 Author
 
-**Deepthi Pradeep**
+**Varshith Kumar S**
 
 ---

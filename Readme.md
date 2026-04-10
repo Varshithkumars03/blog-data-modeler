@@ -66,7 +66,7 @@ node server.js
 
 ## 🌐 GitHub Repository
 
-👉 https://github.com/deepthip711/blog-data-modeler
+👉 https://github.com/Varshithkumars03/blog-data-modeler
 
 
 
